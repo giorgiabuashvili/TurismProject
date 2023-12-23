@@ -1,0 +1,11 @@
+D:\GIORGI\tvini\BACK_END\TurismProject\TurismProject\TurismProject\bin\Debug\TurismProject.exe.config
+D:\GIORGI\tvini\BACK_END\TurismProject\TurismProject\TurismProject\bin\Debug\TurismProject.exe
+D:\GIORGI\tvini\BACK_END\TurismProject\TurismProject\TurismProject\bin\Debug\TurismProject.pdb
+D:\GIORGI\tvini\BACK_END\TurismProject\TurismProject\TurismProject\obj\Debug\TurismProject.csproj.AssemblyReference.cache
+D:\GIORGI\tvini\BACK_END\TurismProject\TurismProject\TurismProject\obj\Debug\TurismProject.csproj.SuggestedBindingRedirects.cache
+D:\GIORGI\tvini\BACK_END\TurismProject\TurismProject\TurismProject\obj\Debug\TurismProject.Form1.resources
+D:\GIORGI\tvini\BACK_END\TurismProject\TurismProject\TurismProject\obj\Debug\TurismProject.Properties.Resources.resources
+D:\GIORGI\tvini\BACK_END\TurismProject\TurismProject\TurismProject\obj\Debug\TurismProject.csproj.GenerateResource.cache
+D:\GIORGI\tvini\BACK_END\TurismProject\TurismProject\TurismProject\obj\Debug\TurismProject.csproj.CoreCompileInputs.cache
+D:\GIORGI\tvini\BACK_END\TurismProject\TurismProject\TurismProject\obj\Debug\TurismProject.exe
+D:\GIORGI\tvini\BACK_END\TurismProject\TurismProject\TurismProject\obj\Debug\TurismProject.pdb
